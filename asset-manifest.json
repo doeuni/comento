@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/llast.github.io/static/css/main.d10e135e.css",
+    "main.js": "/llast.github.io/static/js/main.526e41e8.js",
+    "static/js/787.59520b8b.chunk.js": "/llast.github.io/static/js/787.59520b8b.chunk.js",
+    "static/media/milkkeyring.png": "/llast.github.io/static/media/milkkeyring.3a4569d5f4455820231e.png",
+    "static/media/pen.png": "/llast.github.io/static/media/pen.bc0fd842ca30d389a007.png",
+    "static/media/snowball.png": "/llast.github.io/static/media/snowball.6d803dcfee6ea8fd7ae1.png",
+    "index.html": "/llast.github.io/index.html",
+    "main.d10e135e.css.map": "/llast.github.io/static/css/main.d10e135e.css.map",
+    "main.526e41e8.js.map": "/llast.github.io/static/js/main.526e41e8.js.map",
+    "787.59520b8b.chunk.js.map": "/llast.github.io/static/js/787.59520b8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10e135e.css",
+    "static/js/main.526e41e8.js"
+  ]
+}
