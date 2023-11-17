@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>My Clock</title>
+</head>
+<body>
+  <div class="battery">
+    <div class="battery-level" id="battery-level">100%</div>
+  </div>
+  
+  <div class="clock" id="clock">
+
+  </div>
+
+  <div class="alarm-container">
+    <h2>시계</h2>
+    <div id="alarm-list">
+ 
+    </div>
+    <div>
+      <input type="number" id="hours" min="0" max="23">
+      <label for="hours">시</label>
+      <input type="number" id="minutes" min="0" max="59">
+      <label for="minutes">분</label>
+      <input type="number" id="seconds" min="0" max="59">
+      <label for="seconds">초</label>
+      <label for="soundSelect"></label>
+      <select id="soundSelect">
+          <option value="sound1">개 짖는 소리</option>
+          <option value="sound2">차임벨</option>
+          <option value="sound3">전파 탐지기</option>
+      </select> 
+      <button onclick="addAlarm()">알람 추가</button>
+
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
